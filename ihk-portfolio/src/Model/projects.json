@@ -1,0 +1,38 @@
+[
+  {
+    "CloneProjects": {
+      "Project1": {
+        "descriptions": "Microsoft Landing Page",
+        "techUsed": ["HTML5", "CSS3"],
+        "Date": "Reference date of actual Site Date"
+      }
+    }
+  },
+  {
+    "VanillaJSProjects": {
+      "Project1": {
+        "descriptions": "VanillaJSProject Desicrption",
+        "techUsed": ["List", "of", "Tech", "Used"],
+        "Date": "Reference date for Project"
+      }
+    }
+  },
+  {
+    "ReactJSProjects": {
+      "Project1": {
+        "descriptions": "ReactJSProject Descrtion",
+        "techUsed": ["List", "of", "Tech", "Used"],
+        "Date": "Reference date for projects"
+      }
+    }
+  },
+  {
+    "ProductionProjects": {
+      "Project1": {
+        "descriptions": "ProductionProject Descrtion",
+        "techUsed": ["List", "of", "Tech", "Used"],
+        "Date": "Reference date for projects start and end"
+      }
+    }
+  }
+]

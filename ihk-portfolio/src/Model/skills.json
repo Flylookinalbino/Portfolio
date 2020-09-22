@@ -1,0 +1,139 @@
+[
+  {
+    "HTML5": {
+      "description": "HTML5 Understanding of basic Website content layout!",
+      "couseName": [
+        "HTML5 Crash Course - Understanding tags",
+        "HTML5 Semantic Elements"
+      ],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=1"
+      ]
+    }
+  },
+  {
+    "CSS3": {
+      "description": "CSS3 Styling Website Content",
+      "couseName": [
+        "CSS Crash Course",
+        "CSS3 Flexbox in 20 Minutes",
+        "CSS3 Grid Crash Course",
+        "CSS3 Variables Tutorial (CSS Custom Properties)",
+        "CSS3 Animation & Transitions Crash Course"
+      ],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=2",
+        "https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4",
+        "https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5",
+        "https://www.youtube.com/watch?v=sQUB039MG0I",
+        "https://www.youtube.com/watch?v=zHUpx90NerM"
+      ]
+    }
+  },
+  {
+    "Javascript": {
+      "description": "Javascripts allows HTML5 and CSS3 Elements Interactive",
+      "couseName": [
+        "Javascript Crash Course For Beginners",
+        "Javascript DOM Crash Course - Part 1",
+        "Javascript DOM Crash Course - Part 2",
+        "Javascript DOM Crash Course - Part 3",
+        "Javascript DOM Crash Course - Part 4 - Final Part",
+        "JavaScript Higher Order Functions & Arrays",
+        "JavaScript OOP Crash Course",
+        "Async JS Crash Course - Callbacks, Promises, Async Await",
+        "JavaScript EA6 / ES2015 Tutuorials"
+      ],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=3",
+        "https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=2",
+        "https://www.youtube.com/watch?v=mPd2aJXCZ2g&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=3",
+        "https://www.youtube.com/watch?v=wK2cBMcDTss&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=4",
+        "https://www.youtube.com/watch?v=i37KVt_IcXw&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=5",
+        "https://www.youtube.com/watch?v=rRgD1yVwIvE&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=9",
+        "https://www.youtube.com/watch?v=vDJpGenyHaA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=10",
+        "https://www.youtube.com/watch?v=PoRJizFvM7s&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=11",
+        "https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv"
+      ]
+    }
+  },
+  {
+    "Bootstrap": {
+      "description": "Bootstrap 4 CSS Framework",
+      "couseName": ["Bootstrap Beginner Crash Course"],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=5GcQtLDGXy8&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=19"
+      ]
+    }
+  },
+  {
+    "NPM": {
+      "description": "npm (Node Package Manager) understanding how project dependencies are stored",
+      "couseName": ["NPM Crash Course"],
+      "youtube-link": ["https://www.youtube.com/watch?v=jHDhaSSKmB0"]
+    }
+  },
+  {
+    "Tailwind": {
+      "description": "Tailwind CSS Utilities Framework",
+      "couseName": ["Tailwind CSS Crash Course"],
+      "youtube-link": ["https://www.youtube.com/watch?v=UBOj6rqRUME"]
+    }
+  },
+  {
+    "JSON": {
+      "description": "JavaScript Object Notation",
+      "couseName": ["JSON Crash Course"],
+      "youtube-link": ["https://www.youtube.com/watch?v=wI1CWzNtE-M"]
+    }
+  },
+  {
+    "AJAX": {
+      "description": "AJAX Async Data Access and Manipulation",
+      "couseName": ["AJAX Crash Course (Vinilla JavaScript)"],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=12"
+      ]
+    }
+  },
+  {
+    "MySQL": {
+      "description": "MySQL Relational DB",
+      "couseName": ["MySQL Crash Course | Learn SQL"],
+      "youtube-link": ["https://www.youtube.com/watch?v=9ylj9NR0Lcg"]
+    }
+  },
+  {
+    "FetchAPI": {
+      "description": "Fetch API Async Data Access and Manipulation",
+      "couseName": ["Fetch API Introduction"],
+      "youtube-link": [
+        "https://www.youtube.com/watch?v=Oive66jrwBs&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=13",
+        "https://www.youtube.com/watch?v=HwMivpgciNU"
+      ]
+    }
+  },
+  {
+    "MarkDown": {
+      "description": "MarkDown Docmentation",
+      "couseName": ["MarkDown Crash Course"],
+      "youtube-link": ["https://www.youtube.com/watch?v=HUBNt18RFbo"]
+    }
+  },
+  {
+    "React JS": {
+      "description": "MarkDown Docmentation",
+      "couseName": ["React JS"],
+      "youtube-link": ["https://www.youtube.com/watch?v=mACw_G-okPE"]
+    }
+  },
+  {
+    "PHP": {
+      "description": "Connecting to database",
+      "couseName": ["PHP in AJAX & Fetch API"],
+      "youtube-link": [
+        "https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn"
+      ]
+    }
+  }
+]
