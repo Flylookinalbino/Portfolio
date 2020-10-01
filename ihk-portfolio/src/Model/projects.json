@@ -1,38 +1,42 @@
 [
   {
-    "CloneProjects": {
-      "Project1": {
-        "descriptions": "Microsoft Landing Page",
-        "techUsed": ["HTML5", "CSS3"],
-        "Date": "Reference date of actual Site Date"
-      }
+    "id": 1,
+    "category": "Clone Projects",
+    "project": {
+      "project-name": "Microsoft Landing Page",
+      "descriptions": "Clone of Microsoft Landing Page",
+      "techUsed": ["HTML5", "CSS3"],
+      "Date": "Reference date of actual Site Date"
     }
   },
   {
-    "VanillaJSProjects": {
-      "Project1": {
-        "descriptions": "VanillaJSProject Desicrption",
-        "techUsed": ["List", "of", "Tech", "Used"],
-        "Date": "Reference date for Project"
-      }
+    "id": 2,
+    "category": "Vanilla JS Projects",
+    "project": {
+      "project-name": "Vinalla JSProject Name",
+      "descriptions": "VanillaJSProject Desicrption",
+      "techUsed": ["List", "of", "Tech", "Used"],
+      "Date": "Reference date for Project"
     }
   },
   {
-    "ReactJSProjects": {
-      "Project1": {
-        "descriptions": "ReactJSProject Descrtion",
-        "techUsed": ["List", "of", "Tech", "Used"],
-        "Date": "Reference date for projects"
-      }
+    "id": 2,
+    "category": "ReactJS Projects",
+    "project": {
+      "project-name": "React JS Projects Name",
+      "descriptions": "ReactJSProject Descrtion",
+      "techUsed": ["List", "of", "Tech", "Used"],
+      "Date": "Reference date for projects"
     }
   },
   {
-    "ProductionProjects": {
-      "Project1": {
-        "descriptions": "ProductionProject Descrtion",
-        "techUsed": ["List", "of", "Tech", "Used"],
-        "Date": "Reference date for projects start and end"
-      }
+    "id": 3,
+    "category": "Production Projects",
+    "project": {
+      "project-name": "Production Project Name",
+      "descriptions": "ProductionProject Descrtion",
+      "techUsed": ["List", "of", "Tech", "Used"],
+      "Date": "Reference date for projects start and end"
     }
   }
 ]

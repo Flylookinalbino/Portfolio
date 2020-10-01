@@ -32,17 +32,17 @@ List of Skills and their following Discriptions/Course Name/Youtube-Links
 
 ```JSON
 {
-    "skillName": {
-      "description": "",
-      "courseName": [
-        "",
-        ""
-      ],
-      "youtube-link": [
-        ""
-      ]
-    }
-  },
+  "id": 1,
+  "skill": "HTML5",
+  "description": "HTML5 Understanding of basic Website content layout!",
+  "couseName": [
+    "HTML5 Crash Course - Understanding tags",
+    "HTML5 Semantic Elements"
+  ],
+  "youtube-link": [
+    "https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=1"
+  ]
+},
 ```
 
 ---
@@ -61,14 +61,15 @@ List of ProjectCategory ProjectName and their Description/techUsed/Date
 
 ```JSON
 {
-    "ProjectCategory": {
-      "ProjectName": {
-        "descriptions": "VanillaJSProject Desicrption",
-        "techUsed": ["List", "of", "Tech", "Used"],
-        "Date": "Reference date for Project"
-      }
-    }
-  },
+  "id": 1,
+  "category": "Type of Projects",
+  "project": {
+    "project-name": "Project Name",
+    "descriptions": "Clone of Microsoft Landing Page",
+    "techUsed": ["tech1", "tech2"],
+    "Date": "Reference date of actual Site Date"
+  }
+},
 ```
 
 ---

@@ -2,4 +2,130 @@
 
 @tailwind components;
 
+.btn {
+  @apply py-3 border shadow-lg rounded-lg bg-white;
+}
+.btn:hover {
+  @apply bg-red-800 text-white;
+}
+.btn:focus {
+  @apply border-white;
+}
+.btn:active {
+  @apply bg-red-900;
+}
+
+.gridCard {
+  @apply bg-white shadow-md rounded;
+}
+.gridCard:hover {
+  @apply bg-teal-700 text-white h-64 shadow-xl;
+}
+.easeInOut {
+  @apply transition duration-1000 ease-in-out;
+}
+
+.flipper {
+  height: 0;
+  padding-bottom: 10%;
+  position: relative;
+  -webkit-perspective: 800px;
+  -ms-perspective: 800px;
+  perspective: 800px;
+}
+
+.flipper-card {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  transition: -webkit-transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    -webkit-transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.flipper-front,
+.flipper-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flipper-back {
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+  padding: 10px;
+}
+
+.flipper-card.flipper-is-flipped {
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+
+.aniTrans {
+  @apply transform transition duration-1000 ease-in-out;
+}
+
+.domFadeIn {
+  opacity: 0;
+  animation: fadeIn 500ms ease-in forwards;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.75;
+  }
+}
+.domFadeOut {
+  opacity: 0.75;
+  animation: fadeOut 500ms ease-out forwards;
+}
+@keyframes fadeOut {
+  from {
+    opacity: 0.75;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.navFlyIn {
+  left: -1000;
+  opacity: 0;
+  animation: flyIn 500ms ease-in forwards;
+}
+@keyframes flyIn {
+  from {
+    left: -1000px;
+    opacity: 0;
+  }
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
+.navFlyOut {
+  left: 0;
+  opacity: 1;
+  animation: flyOut 500ms ease-out forwards;
+}
+@keyframes flyOut {
+  from {
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    left: -1000px;
+    opacity: 0;
+  }
+}
 @tailwind utilities;

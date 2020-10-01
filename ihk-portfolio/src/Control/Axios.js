@@ -1,7 +1,17 @@
-import React from 'react';
+// import React, { useState, useEffect } from 'react';
+// import axios from 'axios';
 
-const Axios = () => {
-  return <div></div>;
-};
+// location = './Model/skills.json';
+// const Axios = () => {
+//   const [data, setData] = useState(null);
 
-export default Axios;
+//   useEffect(() => {
+//     fetch(location)
+//       .then((res) => res.text())
+//       .then((data) => console.log(data));
+//   }, [location]);
+
+//   return <div>{data}</div>;
+// };
+
+// export default Axios;
